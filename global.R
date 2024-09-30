@@ -11,8 +11,8 @@ module_id ='mdlTMDocumentSyncCom'
 module_name ='模块演示'
 
 #获取数据中台数据库连接的token,演示数据为py_test
-dms_token ='75CE5B94-38F1-40F6-9B7B-9B4170C8E5F6'
-
+dms_token ='AE92C1F5-201D-45A0-A8C4-F79AB46293E0'
+wms_token='B9D82548-353F-44E5-B632-70BFDADC7F28'
 #加载数据中台的所有系统包及程序包
 tstk::import(app_id)
 
