@@ -13,9 +13,29 @@ tabItem(tabName = "mdlTMDocumentSyncCom",
                                     mdlTMDocumentSyncUI::saleOutUI(),
                                     mdlTMDocumentSyncUI::saleReturnUI(),
                                     mdlTMDocumentSyncUI::purchaseInboundUI(),
-                                    mdlTMDocumentSyncUI::purchaseReturnUI()
-                                     
+                                    mdlTMDocumentSyncUI::purchaseReturnUI(),
                                     
+                                    mdlTMDocumentSyncUI::productWarehousingUI(),
+                                    mdlTMDocumentSyncUI::rpd_returnstockUI(),
+                                    mdlTMDocumentSyncUI::prd_pickmtrUI(),
+                                    mdlTMDocumentSyncUI::prd_pickmtrl_wasteUI(),
+                                    
+                                    mdlTMDocumentSyncUI::stk_miscellaneous_crushUI(),
+                                    mdlTMDocumentSyncUI::stk_misdelivery_crushUI(),
+                                    mdlTMDocumentSyncUI::stk_dismantlingUI(),
+                                    mdlTMDocumentSyncUI::stk_assemblyUI(),
+                                    mdlTMDocumentSyncUI::stk_miscellaneous_wasteUI(),
+                                    mdlTMDocumentSyncUI::stk_misdelivery_watsteUI(),
+                                    mdlTMDocumentSyncUI::stk_miscellaneous_salUI(),
+                                    mdlTMDocumentSyncUI::stk_misdelivery_salUI(),
+                                    mdlTMDocumentSyncUI::stk_miscellaneous_stdUI(),
+                                    mdlTMDocumentSyncUI::stk_misdelivery_stdUI(),
+                                    mdlTMDocumentSyncUI::stk_stktransferin_stdUI(),
+                                    mdlTMDocumentSyncUI::stk_stktransferin_materialUI(),
+                                    mdlTMDocumentSyncUI::stk_stktransferin_othersUI()
+                                    # mdlTMDocumentSyncUI::directTransferUI(),
+                                    # mdlTMDocumentSyncUI::otherInboundUI(),
+                                    # mdlTMDocumentSyncUI::otherOutboundUI()
                                     
                                     #end----
                                     
